@@ -1,0 +1,11 @@
+.main-container {
+  background-color: lightgray;
+}
+
+.mat-toolbar {
+  height: 60px;
+}
+
+.content {
+  height: calc(100% - 60px);
+}
